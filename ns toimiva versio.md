@@ -1,3 +1,5 @@
+permalink: /index.html
+
 ## Asko Salmela web-tehtävä
 
 ## _Italics_ and **Bold**
